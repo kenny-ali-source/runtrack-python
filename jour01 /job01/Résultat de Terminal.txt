@@ -1,0 +1,23 @@
+Last login: Mon Nov 20 10:31:54 on ttys000
+You have new mail.
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Air-de-Ali:~ ken$ python3
+Python 3.12.0 (v3.12.0:0fb18b02c8, Oct  2 2023, 09:45:56) [Clang 13.0.0 (clang-1300.0.29.30)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 10+3
+13
+>>> 10-3
+7
+>>> 10*3
+30
+>>> 10/3
+3.3333333333333335
+>>> 10//3
+3
+>>> 10%3
+1
+>>> 
+

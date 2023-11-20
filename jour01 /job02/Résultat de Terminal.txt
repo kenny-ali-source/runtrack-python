@@ -1,0 +1,24 @@
+Last login: Mon Nov 20 10:57:13 on ttys000
+You have new mail.
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-Air-de-Ali:~ ken$ cd runtrack-python
+MacBook-Air-de-Ali:runtrack-python ken$ cd jour01
+MacBook-Air-de-Ali:jour01 ken$ cd job02
+MacBook-Air-de-Ali:job02 ken$ python3 main.py
+13
+MacBook-Air-de-Ali:job02 ken$ 
+
+
+
+
+
+
+
+
+
+
+
+
