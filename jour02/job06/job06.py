@@ -1,8 +1,9 @@
 for n in range(2, 1001):
-    prime_number = True
+    prime_numbers = True
     for i in range(2, n):
         if n % i == 0:
-            prime_number = False
+            prime_numbers = False
             break
-    if prime_number == True:
-         print(n)
+    if prime_numbers == True:
+         print(n, end=' ')
+print("\n")
