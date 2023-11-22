@@ -7,7 +7,7 @@ def verifie_pair_impair(nombre):
     else:
         return "ce nombre n'est pas un entier positif."
 print(verifie_pair_impair(10))
-print(verifie_pair_impair(7))
-print(verifie_pair_impair(0))
+print(verifie_pair_impair(5))
+print(verifie_pair_impair(3))
 print(verifie_pair_impair(-5))
-print(verifie_pair_impair(3.14))
+print(verifie_pair_impair(-3))
